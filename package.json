@@ -1,0 +1,25 @@
+{
+    "name": "task-scheduler-api",
+    "version": "1.0.0",
+    "description": "A simple Task Scheduler API built with Express.js",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js"
+    },
+    "keywords": [
+      "express",
+      "task",
+      "scheduler",
+      "api"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.19.2"
+    },
+    "devDependencies": {
+      "nodemon": "^3.0.3"
+    }
+  }
+  
